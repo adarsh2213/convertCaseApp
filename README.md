@@ -1,4 +1,4 @@
-# ConvetCase App Using React.js
+# ConvertCase App Using React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
