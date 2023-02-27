@@ -21,7 +21,6 @@ function About() {
                             </div>
                             <button type="button" className="btn mx-2 btn-primary">ReadMore</button>
                         </div>
-                        {/* jjjjj */}
                     </div>
                 </div>
             </div>
